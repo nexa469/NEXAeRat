@@ -127,3 +127,22 @@
     <img src="https://reporoster.com/forks/dark/shivaya-dav/DogeRat" alt="Forkers" title="Forkers" width="400" height="auto">
   </a>
 </div>
+<h2 align="center">🚀 One-Click Deploy Options</h2>
+
+<p align="center">
+  <a href="https://render.com/deploy?repo=https://github.com/nexa469/NEXAeRat">
+    <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+  </a>
+  <br><br>
+  <a href="https://heroku.com/deploy?template=https://github.com/nexa469/NEXAeRat">
+    <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
+  </a>
+  <br><br>
+  <a href="https://replit.com/github/nexa469/NEXAeRat">
+    <img src="https://replit.com/badge/github/nexa469/NEXAeRat" alt="Deploy to Replit">
+  </a>
+  <br><br>
+  <a href="https://glitch.com/edit/#!/import/github/nexa469/NEXAeRat">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Glitch_logo.svg" alt="Deploy to Glitch" width="100">
+  </a>
+</p>
